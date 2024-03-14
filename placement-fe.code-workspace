@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "placement-fe",
+			"path": ".."
+		},
+		{
+			"name": "day-1",
+			"path": "../../day-1"
+		},
+		{
+			"name": "porfolio",
+			"path": "../../porfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "placement-fe"
+	}
+}
